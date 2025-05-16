@@ -1,0 +1,26 @@
+question_id,answer,severity_code,central_estimate
+1,I have no problems in walking around,1,0
+1,I have slight problems in walking around,2,0.058
+1,I have moderate problems in walking around,3,0.076
+1,I have severe problems in walking around,4,0.21
+1,I am unable to walk around,5,0.27
+2,I have no problems washing or dressing myself,1,0
+2,I have slight problems washing or dressing myself,2,0.05
+2,I have moderate problems washing or dressing myself,3,0.08
+2,I have severe problems washing or dressing myself,4,0.16
+2,I am unable to wash or dress myself,5,0.2
+3,I have no problems doing my usual activities,1,0
+3,I have slight problems doing my usual activities,2,0.05
+3,I have moderate problems doing my usual activities,3,0.063
+3,I have severe problems doing my usual activities,4,0.16
+3,I am unable to do my usual activities,5,0.18
+4,I have no pain or discomfort,1,0
+4,I have slight pain or discomfort,2,0.063
+4,I have moderate pain or discomfort,3,0.084
+4,I have severe pain or discomfort,4,0.28
+4,I have extreme pain or discomfort,5,0.34
+5,I am not anxious or depressed,1,0
+5,I am slightly anxious or depressed,2,0.078
+5,I am moderately anxious or depressed,3,0.1
+5,I am severely anxious or depressed,4,0.29
+5,I am extremely anxious or depressed,5,0.29
