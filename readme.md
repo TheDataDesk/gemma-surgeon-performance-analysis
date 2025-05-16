@@ -48,6 +48,10 @@ Measure patient improvement and rank surgeons by performance using a metric that
 - pandasql (SQL in Python)  
 - Plotly (interactive charts)
 
+**Note:** GitHub does not render interactive Plotly charts in Jupyter notebooks.  
+> To view all visualizations, please refer to the static images in the `plots/` folder.
+
+
 ---
 
 ##  How to Run
